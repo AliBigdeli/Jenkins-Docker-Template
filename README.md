@@ -39,7 +39,7 @@ next when everything is done you will be asked to fill a form which will asks fo
 
 finally you will be redirected to the main page of jenkins.
 
-<div align="center" ><img loading="lazy" style="width:700px" src="./docs/jenkins-ready.png"></div>
+<div align="center" ><img loading="lazy" style="width:700px" src="./docs/jenkins-dashboard.png"></div>
 
 
 
